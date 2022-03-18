@@ -12,7 +12,7 @@ body{
 
 #contain{
   position: relative;
-  top: 170px;
+  top: 150px;
   display: flex;
    flex-direction: column;
  
@@ -91,7 +91,7 @@ body{
             width: 70px;
             text-align: center;
             padding: 5px;
-            margin-left: 440px;
+            margin-left: 470px;
             margin-top: -27px;
         }
         .dark{
