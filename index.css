@@ -3,6 +3,13 @@ body{
 
 }
 
+.sun{
+    margin-left: 900px;
+    position: relative;
+    top: 20px;
+    
+}
+
 #contain{
   position: relative;
   top: 170px;
@@ -67,7 +74,7 @@ body{
 
 .modejs{
     position: relative;
-    top: -380px;
+    top: -420px;
 }
 
 .mode {
@@ -84,7 +91,7 @@ body{
             width: 70px;
             text-align: center;
             padding: 5px;
-            margin-left: 390px;
+            margin-left: 440px;
             margin-top: -27px;
         }
         .dark{
@@ -118,7 +125,7 @@ body{
 .navbar {
       position: relative;
       left: 110px;
-      top: -350px;
+      top: -390px;
       
 }
 
